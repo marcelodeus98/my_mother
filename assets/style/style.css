@@ -37,13 +37,7 @@ body{
     align-items: center;
 }
 
-.body_container img{
-    width: 60vw;
-    height:80vh;
-    align-items: center;
-    justify-content: center;
-    border-radius: 8px;
-}
+
 
 .body_container .img-icon{
     height:5vh;
