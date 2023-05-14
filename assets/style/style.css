@@ -37,8 +37,6 @@ body{
     align-items: center;
 }
 
-
-
 .body_container .img-icon{
     height:5vh;
     width: 5vw;
@@ -46,7 +44,6 @@ body{
 
 .body_container .img-mensagem{
     border-radius: 50%;
-    height:50vh
 }
 
 #mensagem p{
